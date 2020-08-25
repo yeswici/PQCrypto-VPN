@@ -1,4 +1,4 @@
-# Welcome to the PQCrypto-VPN project!
+# Welcome to the QVPN project!
 
 Please start with our [project page at Microsoft Research](https://www.microsoft.com/en-us/research/project/post-quantum-crypto-vpn/) for an overview of this project.
 
